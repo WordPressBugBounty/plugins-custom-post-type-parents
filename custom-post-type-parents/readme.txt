@@ -3,7 +3,7 @@ Contributors:      McGuive7, MIGHTYminnow
 Donate link:       http://wordpress.org/plugins/custom-post-type-parents
 Tags:              custom, post, type, parent, menu, list, pages
 Requires at least: 3.5
-Tested up to:      6.6.1
+Tested up to:      6.6.2
 Stable tag:        1.1.3
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,6 +49,9 @@ Custom Post Type Parents applies the following classes to parent and ancestor pa
 
 == Frequently Asked Questions ==
 
+**How can I report security bugs?**
+
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/custom-post-type-parents)
 
 == Screenshots ==
 
